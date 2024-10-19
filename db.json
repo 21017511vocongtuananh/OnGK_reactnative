@@ -1,0 +1,147 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "email": "1@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "2",
+        "email": "1@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "3",
+        "email": "1@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "4",
+        "email": "1@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "5",
+        "email": "1@gmail.com",
+        "password": "123"
+      }
+    ],
+    
+    "products": {
+      "Smartphone": [
+        {
+          "id": "1",
+          "name": "Smart phone 1",
+          "image": "../assets/Data/1.png",
+          "price": 700
+        },
+        {
+          "id": "2",
+          "name": "Smart phone 2",
+          "image": "../assets/Data/1.png",
+          "price": 800
+        },
+        {
+          "id": "3",
+          "name": "Smart phone 3",
+          "image": "../assets/Data/1.png",
+          "price": 900
+        },
+        {
+          "id": "4",
+          "name": "Smart phone 4",
+          "image": "../assets/Data/1.png",
+          "price": 600
+        },
+        {
+          "id": "5",
+          "name": "Smart phone 5",
+          "image": "../assets/Data/1.png",
+          "price": 500
+        },
+        {
+          "id": "6",
+          "name": "Smart phone 6",
+          "image": "../assets/Data/1.png",
+          "price": 400
+        }
+      ],
+      "Ipad": [
+        {
+          "id": "1",
+          "name": "Ipad 1",
+          "image": "../assets/Data/1.png",
+          "price": 700
+        },
+        {
+          "id": "2",
+          "name": "Ipad 2",
+          "image": "../assets/Data/1.png",
+          "price": 800
+        },
+        {
+          "id": "3",
+          "name": "Ipad 3",
+          "image": "../assets/Data/1.png",
+          "price": 900
+        },
+        {
+          "id": "4",
+          "name": "Ipad 4",
+          "image": "../assets/Data/1.png",
+          "price": 600
+        },
+        {
+          "id": "5",
+          "name": "Ipad 55",
+          "image": "../assets/Data/1.png",
+          "price": 500
+        },
+        {
+          "id": "6",
+          "name": "Ipad 6",
+          "image": "../assets/Data/1.png",
+          "price": 400
+        }
+      ],
+      "Macbook": [
+        {
+          "id": "1",
+          "name": "Macbook 1",
+          "image": "../assets/Data/1.png",
+          "price": 700
+        },
+        {
+          "id": "2",
+          "name": "Macbook 2",
+          "image": "../assets/Data/1.png",
+          "price": 800
+        },
+        {
+          "id": "3",
+          "name": "Macbook 3",
+          "image": "../assets/Data/1.png",
+          "price": 900
+        },
+        {
+          "id": "4",
+          "name": "Macbook 4",
+          "image": "../assets/Data/1.png",
+          "price": 600
+        },
+        {
+          "id": "5",
+          "name": "Macbook 5",
+          "image": "../assets/Data/1.png",
+          "price": 500
+        },
+        {
+          "id": "6",
+          "name": "Macbook 6",
+          "image": "../assets/Data/1.png",
+          "price": 400
+        }
+      ]
+    }
+  }
+  
