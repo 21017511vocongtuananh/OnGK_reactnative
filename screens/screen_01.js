@@ -49,7 +49,7 @@ export default function app ({navigation}) {
                     fontWeight:"bold",
                     color:"#CCC",
                     marginTop:10,
-                }}>Log into your account</Text>
+                }}>Log into your accountt</Text>
             </View>
 
             <View style={{
